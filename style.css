@@ -1,0 +1,31 @@
+body {
+    background-color: #0f0f11 !important;
+    color: #ffffff !important;
+}
+
+/* Sub-text / Paragraphs ko readable aur bright banane ke liye */
+p, .lead, ul, li {
+    color: #e4e4e7 !important;
+}
+
+.text-purple {
+    color: #a855f7 !important;
+}
+
+.bg-custom-card {
+    background-color: #18181b !important;
+}
+
+.btn-purple {
+    background-color: #a855f7 !important;
+    color: #ffffff !important;
+    border: none !important;
+}
+
+.btn-purple:hover {
+    background-color: #9333ea !important;
+}
+
+.navbar-brand {
+    text-decoration: none !important;
+}
